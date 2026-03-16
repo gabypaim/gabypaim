@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4B0082&center=true&vCenter=true&width=500&lines=Hello+I'm+Gaby" />
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4B0082&width=500&lines=Hello+I'm+Gaby" />
 </p>
 
 <p>⟡ ─────── ⟡ ─────── ⟡</p>

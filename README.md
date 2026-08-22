@@ -15,7 +15,7 @@
 ### Languages
 
 <p>
-Javascript
+Javascript, C , C#
 </p>
 
 <p>⟡ ─────── ⟡ ─────── ⟡</p>

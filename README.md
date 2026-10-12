@@ -6,7 +6,6 @@
 
 ### About me
 
-* I code with **JavaScript**
 * Currently learning more about **web development**
 * I like building projects and learning new things
 
